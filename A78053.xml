@@ -1,0 +1,824 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief declaration of the severall passages in the treaty concerning the surrender of the garrison of Lundy, formerly commanded by Tho. Bushell Esq; Governour thereof for His Maiestie. Die Sabbathi 10. Julii 1647. Ordered by the Lords and Commons assembled in Parliament, that upon the delivery up of the Isle of Lundy to the Lord Vicount Say and Seal, or his assignes, by Mr. Tho. Bushell, the delinquencie of the said Tho. Bushell be taken off, and all sequestration in respect thereof be discharged, and he and his assignes restored to all such rites as he or they had or ought to have in the mines in Devonshire, Wales, and Cornewall, and to all his other estates and rights whatsoever, and that the men that were with him in the island, being not souldiers of estate and fortune, be pardoned and freed from delinquencie. H. Elsing. Cler. Par. Dom. Com.</title>
+            <author>Bushell, Thomas, 1594-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78053</idno>
+            <idno type="STC">Wing B6240</idno>
+            <idno type="STC">Thomason E433_24</idno>
+            <idno type="STC">ESTC R206206</idno>
+            <idno type="EEBO-CITATION">99865379</idno>
+            <idno type="PROQUEST">99865379</idno>
+            <idno type="VID">161552</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161552)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E433[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief declaration of the severall passages in the treaty concerning the surrender of the garrison of Lundy, formerly commanded by Tho. Bushell Esq; Governour thereof for His Maiestie. Die Sabbathi 10. Julii 1647. Ordered by the Lords and Commons assembled in Parliament, that upon the delivery up of the Isle of Lundy to the Lord Vicount Say and Seal, or his assignes, by Mr. Tho. Bushell, the delinquencie of the said Tho. Bushell be taken off, and all sequestration in respect thereof be discharged, and he and his assignes restored to all such rites as he or they had or ought to have in the mines in Devonshire, Wales, and Cornewall, and to all his other estates and rights whatsoever, and that the men that were with him in the island, being not souldiers of estate and fortune, be pardoned and freed from delinquencie. H. Elsing. Cler. Par. Dom. Com.</title>
+                  <author>Bushell, Thomas, 1594-1674.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, 1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A collection of documents, most of which are by Bushell.</note>
+                  <note>A reissue, with cancel title page and three leaves added at end, of the edition with "now under the command of" in line 8 of title.</note>
+                  <note>Annotation on Thomason copy: "March: 28th"; the 7 in imprint date has been altered to read "8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sage and Sele, William Fiennes, --  Viscount, 1582-1662 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Lundy Island (England) --  History --  Siege, 1647 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161552:1" rendition="simple:additions"/>
+            <p>A brief DECLARATION OF THE Severall paſſages in the Treaty con<g ref="char:EOLhyphen"/>cerning the Surrender of the Garriſon OF LVNDY; Formerly Commanded by Tho. Buſhell Eſq; Governour thereof for His MAIESTIE.</p>
+            <floatingText xml:lang="eng" type="order">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Die Sabbathi 10. Julii 1647.</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <p>Ordered by the Lords and Commons aſſembled in Parliament, That upon the delivery up of the Iſle of <hi>Lundy</hi> to the Lord Vi<g ref="char:EOLhyphen"/>count <hi>Say and Seal,</hi> or his Aſſignes, by Mr. <hi>Tho. Buſhell,</hi> the Delinquencie of the ſaid <hi>Tho. Buſhell</hi> be taken off, and all ſequeſtration in reſpect thereof be diſcharged, And he and his aſſignes reſtored to all ſuch rites as he or they had or ought to have in the Mines in <hi>Devonſhire, Wales,</hi> and <hi>Cornewall,</hi> and to all his other eſtates and rights whatſoever, And that the men that were with him in the Iſland, being not Souldiers of eſtate and fortune, be pardoned and freed from de<g ref="char:EOLhyphen"/>linquencie.</p>
+                  <closer>
+                     <signed>H. Elſing. Cler. Par. Dom. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeer 164<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161552:2"/>
+            <pb n="1" facs="tcp:161552:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T may be called a happineſſe, when an ingage<g ref="char:EOLhyphen"/>ment in a hopeleſſe deſign is not beyond the poſ<g ref="char:EOLhyphen"/>ſibility of a retreate, and an opportunity with Honour to draw back, may not then in prudence be ſlighted; <hi>Sir,</hi> I conceive it is your caſe, and ſome hints received, gives me to believe that you will not be ſo mindleſſe of yours, and the King<g ref="char:EOLhyphen"/>doms condition, as not ſeriouſly to conſult with your reaſon, how to mannage a ſafe retreate, ſince it is every way probable, that go<g ref="char:EOLhyphen"/>ing on is unavoidably deſtructive: Beſides, how can thoſe parts and ingenuities that I hear do lodge in your breaſt, but inſatiably thirſt after the good and honour of this Nation; and can you imagine any other way under God that it may be procured, but by a Parlia<g ref="char:EOLhyphen"/>ment? Me thinks ſuch motives from within your ſelf, ſhould ſtir you to yield a willing and ready ſubmiſſion to that ſupream power, the glory of this Nation, in which the King is neceſſarily included: Neither can you forget what former ingagements that Noble Lord, that is concerned in the place you hold, hath put upon you in the buſineſſe of your Mines, and now you have an opportunity at once to congratulate him for ancient favours, and to ingage him to new of the like kinde, which if you would on your part ſurrender him but his own, it would be by him ſo deeply reſented, that I am con<g ref="char:EOLhyphen"/>fident, upon good grounds, you might expect from him the utmoſt that in honour and honeſty he could do for you, both in making up your breach with the Parliament, and for the procurement of your
+<pb n="2" facs="tcp:161552:3"/> Mines, and Cuſtomes. <hi>Sir,</hi> Omit not this opportunity, the Summer is now drawing on, and then you may well imagine that your con<g ref="char:EOLhyphen"/>dition will be lower, and your tearms (if any) harder: If you will be pleaſed to afford me an anſwer, you may direct it to my Garri<g ref="char:EOLhyphen"/>ſon of <hi>Swanzey,</hi> where, ſaving my fidelity to the Cauſe, I ſhall be ready to the utmoſt to expreſſe my ſelf</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your humble Servant, <hi>Phil. Jones.</hi>
+               </signed>
+               <dateline>
+                  <hi>Swanzey,</hi> 
+                  <date>Jan. 12. 1645.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For <hi>Tho. Buſhell</hi> Eſquire, Governour of <hi>Lundy.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs of the 12. of <hi>Jan.</hi> I received the 16. of <hi>March,</hi> the ſub<g ref="char:EOLhyphen"/>ſtance of which, I confeſſe to be good counſell, and true, except in your too full expreſſions, of what I cannot pretend to my abili<g ref="char:EOLhyphen"/>ties; but concerning that Honourable perſon you mention, to whom, for his particular obligations, I ſhall ever endeavour to expreſſe my ſelf a thankfull acknowledger: And I hope his Lordſhip enter<g ref="char:EOLhyphen"/>tains ſo charitable an opinion of me, that it never entred my thoughts to make uſe of his Lordſhips Iſle, either to his diſlike, or prejudice, which I proteſt I only adventured on, to prevent a worſe Inhabitant, and to make uſe of its conveniency for my poor affairs in the Mines I undertook to diſcover at <hi>Commartin,</hi> for the generall good, which I have better hopes in, and ſhall account richer, be<g ref="char:EOLhyphen"/>cauſe they were ſetled to me in Parliament, by his Honours favour: and withall the retirement of this place, as a means to diſingage the obligations of my friends, the only earthly riches I aym at. Now Sir, to vindicate my ſelf to you, to whom I deſire I were better known, the bearer having ſo fully acquainted me with your worth, I have ſent you the Copy of a Letter, which not long ſince I wrote to Mr. <hi>Goodier</hi> of Heathrop in <hi>Oxfordſhire,</hi> and Mr. <hi>James Ingram</hi> of the Fleet, who are well known to my Lord about an exchange of ſome Lands I have in thoſe parts for this place, which lyeth near his Lordſhip; but for thoſe conditions you mention, when his Honour clerly underſtands the ſincerity of of my heart, I am confident there will be no diſpute between us, it being a place of ſuch privacy, as my diſpoſition is well known to affect, had not the troubles of theſe unhappy times made me more in love with; ſo that ſhould his Lord<g ref="char:EOLhyphen"/>ſhip
+<pb n="3" facs="tcp:161552:3"/> through any mans ſuggeſtion, and miſunderſtanding of my in<g ref="char:EOLhyphen"/>nocent intention be invited to a rough proceeding with me, his Lordſhip may perchance ſacrifice a true ſervant, but one who will never expreſſe himſelf an enemy; for I am reſolved to leave the place to his Majeſty, who firſt intruſted me with it, rather then enjoy it without his Honours conſent, and ſo remaining</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your humble Servant, <hi>T. B.</hi>
+               </signed>
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>19 <hi>March</hi> 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>My dear Friends,</salute>
+            </opener>
+            <p>ALthough the diſtractions of theſe times have many wayes ad<g ref="char:EOLhyphen"/>ded to my melancholly, yet me thinks I ſuffer in nought ſo much, as in that they permitted me not to ſee you; nor to give you an account of my proceedings in the hopefull Mines of <hi>Commartin,</hi> which I doubt not, with my Cuſtoms, will ſoon put me in a conditi<g ref="char:EOLhyphen"/>on to requite all courteſies of a fruitfull gratitude, eſpecially if you can treate with my Lord <hi>Say</hi> for this Iſle of <hi>Lundy;</hi> which place, though in it ſelf is deſolate and ſtormy, and hath nought to invite an Inhabitant, except one of my temper who therefore loves it, be<g ref="char:EOLhyphen"/>cauſe it ſeems of kin to the Iſle I lived in before, as alſo in regard it lies convenient for our Mines at <hi>Commartin;</hi> I do therefore again deſire you to take the firſt opportunity to acquaint my Lord <hi>Say,</hi> that if any thing I have in Oxfordſhire may better pleaſe him, then this remote Rock, let his Honour make his own conditions, and I will ſtand to them, although it proves of a greater value, I remain</p>
+            <closer>
+               <signed>Your Servant, <hi>T. B.</hi>
+               </signed>
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>19 <hi>Feb.</hi> 1645.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For his honoured Friends <hi>James Ingram,</hi> and <hi>Edmond Goodier,</hi> Eſq;</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>In conſideration, you live on an Iſland, where you may not have the certainty of what God in his goodneſſe hath done for Eng<g ref="char:EOLhyphen"/>lands well affected ones; I being by the High Court of Parliament placed Vice-Admirall of theſe Seas, have thought it fit to ſend you theſe Summons, and that God may as well touch your heart, as he hath done many other of your ſide, I thought needfull to declare to
+<pb n="4" facs="tcp:161552:4"/> you, that not only all the Weſt, (except ſome 5 places) are come in obedience to the Parliament, but almoſt all England, as by the in<g ref="char:EOLhyphen"/>cloſed liſt of victories doth appear (to God be the glory) And that happily you may plead you will do what the King doth; here I ſend you the Copy of his Letter to the High Court of Parliament to come in; as alſo, a Copy of what entertainment is at <hi>London</hi> provided for him, that ſo if you be not wilfully blinde, you may ſee in what a forlorn condition you will be in, if you ſurrender not the Iſland to his right maſters uſe. Your poſitive anſwer he expects, that would be your friend, if you would be your own, and ſo reſts,</p>
+            <closer>
+               <signed>Iohn Crouther.</signed> 
+               <dateline>Happy Entrance <hi>Regis</hi> under <hi>Lundy.</hi> 
+                  <date>20 <hi>April.</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Worthy SIR,</salute>
+            </opener>
+            <p>I Have received your Summons, and to let you know my re<g ref="char:EOLhyphen"/>ſpects and affection I have to the owner of this Iſle, as likewiſe to the Parliament, preſerving my loyalty to the King my maſter; I have ſent you the Copy of my Letter to the Governor of <hi>Swanzey,</hi> and his Majeſty, concerning the ſame, which I expect daily an an<g ref="char:EOLhyphen"/>ſwer, the which if it cannot ſatisfie your diſpoſition for the preſent, I muſt be forſt to ſtand upon my own defence, in regard I value my reputation above life or fortune, and ſo with my hearty thanks for your news, in that hopes it gives me of a deſired peace, I remain</p>
+            <closer>
+               <signed>Your true Friend and Servant if you pleaſe, <hi>T. B.</hi>
+               </signed>
+               <dateline>From <hi>Lundy</hi> 
+                  <date>20 <hi>April.</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving received this incloſed from the Committee of both Kingdoms, I have ſent this Drummer unto you, giving you this aſſurance, that if you pleaſe to repair to my head-quarters, or to any other place in the Parliaments quarters, to ſpeak with ſuch as my ſelf, or my Lord <hi>Say</hi> ſhall appoint to meet you; you ſhall have a ſafe conduct for your comming, and return: or if you think not fit to come forth of the Iſland your ſelf, to ſend one to ſignifie your minde concerning this buſineſs of my Lord <hi>Sayes,</hi> or to him he ſhall appoint here with me,</p>
+            <closer>
+               <signed>Your Servant <hi>T. Fairfax.</hi>
+               </signed>
+               <dateline>
+                  <hi>Colomb. Iohn-houſe</hi> 
+                  <date>8 <hi>April.</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:161552:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lunae</hi> 12 <hi>January.</hi> 1645.</date> At the Committee of both Kingdoms at Darby Houſe.</dateline>
+            </opener>
+            <p>IT is Ordered that a propoſition be made to Mr. <hi>Buſhell,</hi> that if he will deliver up the Iſle of <hi>Lundy,</hi> this Committee will uſe their endeavors with the Parliament, that he may be reſtored to his Inte<g ref="char:EOLhyphen"/>reſt in the Silver Mines.</p>
+            <closer>
+               <signed>
+                  <hi>Gualter Preſt</hi> Secret. to the ſame Committee.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs of the 8 of this moneth I received not till this morning, elſe I had returned a ſooner anſwer; that had not your occaſi<g ref="char:EOLhyphen"/>ons removed you from theſe parts, I would not have failed to have waited on your Excellencie, for I ſhould have thought your promiſe Sir of my free return to be more impregnable then <hi>Lundy;</hi> but to let you know the clearneſs of my proceedings, and my true reſpect to my Lord <hi>Say,</hi> I have incloſed theſe Letters, which at your leaſure you may be pleaſed to peruſe; aſſuring your Honour, that I will di<g ref="char:EOLhyphen"/>ſpatch a friend with all the ſpeed I can to his Lordſhip, and I doubt not of procuring a way both to deſerve the continuance of his Lord<g ref="char:EOLhyphen"/>ſhips friendſhip, and to preſerve my fidelity to the King my maſter, which I hope your Honours patience will allow me, having no other deſigne, but to preſerve my fortune, for the diſcharge of my debts, to which if your goodneſs will but countenance, it may be reckon<g ref="char:EOLhyphen"/>ed amongſt your victories; and will oblige many more beſides,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>your humble Servant, <hi>T. B.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>3 <hi>April.</hi> 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For his Excellencie, Sir <hi>Thomas Fairfax,</hi> &amp;c.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>May it pleaſe your Excellencie,</head>
+            <p>ACcording to your commands, and my promiſe, in my laſt Letter, I have ſent this Gentleman my kinſman to wait upon your Honour and my Lord <hi>Say,</hi> to whom I have given full power to con<g ref="char:EOLhyphen"/>clude my Surrender of <hi>Lundy,</hi> having obtained my maſters conſent thereunto; and to that purpoſe I have likewiſe deſired him to wait upon his Majeſty, whoſe goodneſs I am confident will not deny me a favor of a higher nature, and without which, a grant were it of the
+<pb n="6" facs="tcp:161552:5"/> Indies, ſhould not invite me to it, for I am reſolved what ever be<g ref="char:EOLhyphen"/>comes of me, my name ſhall never be found amongſt theirs, who have betrayed their truſt, which fidelity I preſume your Honour cannot but approve of, where he is an enemy, who is</p>
+            <closer>
+               <signed>Your humble Servant, <hi>T. B.</hi>
+               </signed>
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>14 <hi>May.</hi> 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For his Excellency Sir <hi>Tho. Fairfax,</hi> &amp;c.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>An anſwer to the Vice-Admirals Meſſage.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN Anſwer of your Meſſage, whether I keep this Iſle wholly for the King, or for the King and Parliament, the which for to pre<g ref="char:EOLhyphen"/>vent any miſtake: Know Sir, I was truſted by the King, and keep but my private family, without injuring of any, which obligeth me to preſerve, untill I have a return of the Treaty incloſed, ſent by an Order from the Honourable Committee of both Kingdoms, with a Letter of His Excellency, Sir <hi>Tho. Fairfax,</hi> wherein to accommo<g ref="char:EOLhyphen"/>date their Honours deſires, and preſerve my own reputation with the King my maſter, I did upon ſight thereof, diſpatch my friend and kinſman to conclude the buſineſs, but if you, or any other, ſhall conceive my proceedings to be not juſtifiable in your own conſci<g ref="char:EOLhyphen"/>ence, before God and man, let the bloud that is ſpilt light upon thoſe that are the occaſion, ſo remains</p>
+            <closer>
+               <signed>Your Friend and Servant, as I finde you mine, <hi>T. B.</hi>
+               </signed>
+               <dateline>Happy Entrance <hi>Regis</hi> in <hi>Lundy</hi> Road. <date>20 <hi>May.</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>May it pleaſe your Majeſty,</salute>
+            </opener>
+            <p>THe incloſed I received from my Lord <hi>Says</hi> ſervant, who is now Governour of <hi>Swanzey,</hi> which I conceive was ſent by his Lordſhips direction, wherein he invites me to the ſurrender of this Iſle, being his Lordſhips known purchaſe; in the peruſall of which, I was not at all ſtartled at the threats therein, but muſt confeſs my ſelf moved at the obligation it minds me of, with which I for<g ref="char:EOLhyphen"/>merly acquainted your Majeſty in the preſence of my Lord of <hi>Dor<g ref="char:EOLhyphen"/>ſet,</hi> ſince which Captain <hi>Crouther,</hi> Vice-Admirall of theſe Seas ſum<g ref="char:EOLhyphen"/>moned
+<pb n="7" facs="tcp:161552:5" rendition="simple:additions"/> me to ſurrender this place. And not long after Sir <hi>Tho. Fairfax</hi> ſent a Drummer with his Letter, and an Order from the Committee of both Kingdoms, wherein they propoſed their aſſiſt<g ref="char:EOLhyphen"/>ance in reſtoring me to my Intereſt in the ſilver Mines, if that I would deliver up this Iſland to my Lord <hi>Say.</hi> Your Majeſty well knoweth how I have maintained <hi>Lundy</hi> at no other Contribution but my own, and how chearfully I have expoſed my friends, and my own credit for your ſervice, as well as exhauſted them in the diſco<g ref="char:EOLhyphen"/>very of the Mines royall; beſides the place in it ſelf is uſeleſs, except in ſome advantages it may yield to me, if your ſacred Majeſty would be pleaſed to vouchſafe me leave to expreſs my gratitude to my Lord <hi>Say</hi> by my quiet and free ſurrendring it, which I hope your goodneſs will not deny me, but if otherwiſe, your Majeſty ſhall require my longer ſtay here; be confident Sir, I ſhall Sacrifice both life and fortune, before the Loyalty of</p>
+            <closer>
+               <signed>Your obedient humble Servant, <hi>T. B.</hi>
+               </signed>
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>14. <hi>May,</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>His Majeſties Anſwer to Mr. <hi>Buſhell,</hi> concerning the ſurrender of <hi>Lundy.</hi>
+            </head>
+            <opener>
+               <salute>B<g ref="char:V">Ʋ</g>SHEL,</salute>
+            </opener>
+            <p>WE have peruſed your Letter, in which We finde thy care to Anſwer thy truſt We at firſt repoſed in thee; now ſince the place is unconſiderable in it ſelf, and yet may be of great advantages unto you, in reſpect of your Mines, We do hereby give you leave to uſe your diſcretion in it, with this Caution, that you do take exam<g ref="char:EOLhyphen"/>ple from Our ſelves, and be not over-credilous of vain promiſes, which hath made Us great, only in our ſufferings, and will not diſ<g ref="char:EOLhyphen"/>charge your debts.</p>
+            <closer>
+               <dateline>
+                  <hi>From Newcaſtle</hi> 
+                  <date>14. <hi>Iuly,</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>May it pleaſe your Honours,</salute>
+            </opener>
+            <p>HAving received your curteous Order of Treaty concerning my ſurrender of <hi>Lundy,</hi> incloſed in a Letter from his Excellency Sir <hi>Tho: Fairfax,</hi> by the hands of his Drummer; I held it an obliga<g ref="char:EOLhyphen"/>tion
+<pb n="8" facs="tcp:161552:6"/> of my duty to diſpatch my friend and kinſman unto your Ho<g ref="char:EOLhyphen"/>nours for the concluſion of the buſineſs, but inſtead of an expected reply, I was reſummoned by Captain <hi>Crouther</hi> the Vice-Admirall; as alſo my ſervants hath been ſince apprehended and impriſoned as Traytors againſt the State, which in its ſelf I value not, but as it con<g ref="char:EOLhyphen"/>cerns your Honours, and his Excellencie Sir <hi>Tho. Fairfax,</hi> who aſ<g ref="char:EOLhyphen"/>ſured me the ſafety of my own perſon, much more my ſervant; for if theſe be the fruits of your Honourable favors, or the Parliaments peace with me, who ever honour them next to my maſter: I ſhall henceforward give no credence to man, but will prepare my ſelf for what condition the Almighty ſhall diſpoſe me, in being confi<g ref="char:EOLhyphen"/>dent of a happy iſſue; having never wronged any in theſe times of publique Rapine, where commands are now only ſought, either to betray or oppreſs the Country, in which catalogue I aſſure your Honors, my name ſhall never be found; for if your patience will not give me leave to part fairely with <hi>Lundy,</hi> and at once to ex<g ref="char:EOLhyphen"/>preſs my fidelity to my maſter, and my reſpects to your Honours, the world ſhall then ſee at how cheap a rate I value my life or for<g ref="char:EOLhyphen"/>tune, when they ſtand in competition with my truſt; and therefore I hope your Honours wiſdoms will adviſe of ſome Nobler way, then in time of Treaty and compliance to ſurprize ſo mean an en<g ref="char:EOLhyphen"/>counter, as me and my poor family, which covets to remain</p>
+            <closer>
+               <signed>Your humble Servant.</signed>
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>14. <hi>Iune,</hi> 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For the Honourable Committee of both Kingdoms.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>May it pleaſe your Excellencie,</salute>
+            </opener>
+            <p>I Have taken the boldneſs to vindicate your Honour, the Vice-Ad<g ref="char:EOLhyphen"/>mirals Summons, and preſerve a right underſtanding of the pro<g ref="char:EOLhyphen"/>poſed Treaty to me, from the Honorable Committee of both King<g ref="char:EOLhyphen"/>doms concerning my ſurrender of <hi>Lundy;</hi> that their Pious Order, nor your good intentions according to the Noble preſidents of your o<g ref="char:EOLhyphen"/>ther actions may not be blaſted by the errors of others ends, unleſs they can aſſure their rough proceedings to cary a palm of victorie in their hands with leſs prejudice, then your wiſdoms hath preſcribed the way for.</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>your humble ſervant <hi>T. B.</hi> 
+               </signed>
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>14. <hi>June,</hi> 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For his Excellencie Sir <hi>Tho. Fairfax.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:161552:6"/>
+            <opener>
+               <salute>My Honoured Lord,</salute>
+            </opener>
+            <p>I Have received you Noble Letter the 20. of <hi>June,</hi> and likewiſe an Order from the Honorable Committee of both Kingdomes the 12 of <hi>April</hi> the which, in obedience thereunto, and for preſerving my loyall duty to the King my maſter, I did then ſpeedily return the incloſed Letter by my friend and kinſman, for ſetling of the buſi<g ref="char:EOLhyphen"/>neſs in ſuch a way, as I conceive might not infringe my fidelity to his Majeſties truſt, nor in concluſion, be wanting of my gratitude to your Lordſhip. Be pleaſed therefore to have but a little patience that I may perform the ſame Juſtice to your Honour, as I would have done to my ſelf, without any prejudice to your Lordſhip, or repentance to your Servant; and the harveſt ſhall be ſuch, as your poſterity may have juſt cauſe to bear in memory my integrity to your Honour, and my demeanor to my country: For having recei<g ref="char:EOLhyphen"/>ved a ſecond Letter from your Lordſhip, that his Majeſties pleaſure is to command all garriſons ſhould be ſurrendred upon Honourable tearms, it were an ignoble Act in me, to keep away the inheritance from him that I am ſo much obliged to Honour as your Lordſhip, and therefore that your own conſcience might witneſs how deſi<g ref="char:EOLhyphen"/>rous my affection is to obey your Honours commands, I am willing to diſcend to the loweſt condition of Honourable tearms that can be admitted by the Laws of morality, reaſon, or religion, which is in a word, to have but my poor eſtate as well reſtored me for the payment of my juſt debts, with an Act of Oblivion for my ſervants, as I have been carefull to preſerve your Honours Iſle at my own charge, without doing the leaſt injury to any; and for the ſame pur<g ref="char:EOLhyphen"/>poſe I have reco<g ref="char:cmbAbbrStroke">̄</g>mended the overture of my humble demands, to the Honourable Court of Parliament, by one Mr. <hi>Squire,</hi> who was ſent to me from the Honoured Committee of <hi>Devon,</hi> to Treat upon the like tearms, which makes me the more aſſured of a happy iſſue; knowing their Piety, my own innocency, and your Lordſhips incli<g ref="char:EOLhyphen"/>nation to Juſtice, I remain,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Honours obliged Servant, <hi>T. B.</hi>
+               </signed>
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>28. <hi>June,</hi> 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For the Right Honourable, the Lord Viſcount <hi>Say,</hi> and <hi>Seal.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="10" facs="tcp:161552:7"/>
+            <head>Mr. <hi>Buſhels</hi> demands to the Honourable Committee of both Kingdoms upon their Treaty for his ſurrendring <hi>Lundy.</hi>
+            </head>
+            <p>THat having on his part obtained his Majeſties conſent for delivering up the Iſle into the Honourable hands of the right owner, with the conſideration of his ſeverall loſſes by Sea and land, and his great charges in the fortification thereof, to preſerve a retired condition, ſo that it fears no enemy, was by himſelf humbly deſired, but to have an Act of Oblivion for his ſervants, and his own Eſtate reſtored him towards the payment of his juſt debts, and fol<g ref="char:EOLhyphen"/>lowing his publike calling in Minerals; as alſo their Honorable coun<g ref="char:EOLhyphen"/>tenance, ſo far as they finde his actioas correſpondent, for the good of the Common wealth, <hi>viz.</hi> His ſeverall grants of the Mines, Mint, and cuſtoms of Lead, with his goods and Eſtate at <hi>Enſton,</hi> to be re<g ref="char:EOLhyphen"/>ſtored him, and confirmed in Parliament: As alſo 100 Tuns of his own Lead, and 100 Tuns of Potters Ore, to be brought from his Mines in Wales to <hi>Bydeford,</hi> for the better diſcharge of his debts in <hi>Devon,</hi> and recovering the deſerted works of his Mines at <hi>Com<g ref="char:EOLhyphen"/>martin,</hi> before he ſurrender the Iſle of <hi>Lundy:</hi> with ſuch priviled<g ref="char:EOLhyphen"/>ges for his Miners, and the ſaid Pariſh of <hi>Commartin,</hi> where the Mines Royall is found, as the Laws of other Nations allow, in caſes of like nature.</p>
+            <p>
+               <hi>SIR,</hi>
+            </p>
+            <p>IT did much aſtoniſh my underſtanding, to hear that the Honourable houſe of Parliament, ſhould in their wiſdoms diſtri<g ref="char:EOLhyphen"/>bute thoſe Mines of Wales, to my enemies, when their better judg<g ref="char:EOLhyphen"/>ment can well remember, my chargable adventures grew ſo great, as my undertakings were pitied by my friends, and inſulted over by men more willing to condemn, then to examine, untill the diſ<g ref="char:EOLhyphen"/>poſer of all things had repleated my indeavors, with the gift of his providence: As likewiſe the heavy burden of their diſpleaſures, in beſieging me and my poor family at ſea, and barring all commerce from me by land, knowing that my conſcience witneſſeth I ever Ho<g ref="char:EOLhyphen"/>noured them next to my maſter, nor never injured any in theſe times of Common Rapine, without it were in my humble requeſting the reſtitution of my poor fortune, for the payment of my juſt
+<pb n="11" facs="tcp:161552:7"/> debts, or the freedom of my ſervants to work in the ſaid Mines, whileſt I Petition Heaven for a further diſcoverie of his mercies to<g ref="char:EOLhyphen"/>wards me, in this my retirement to the naked promontory of <hi>Lundy,</hi> the conſiderations whereof, hath ſo redoubled my griefs, that if I had not made a reſignation of my ſufferings in ſoul, body, &amp; eſtate, to the eternal &amp; Divine power of Juſtice, for contemning the revenge of in<g ref="char:EOLhyphen"/>juſtice, my diſpoſition of humane patience would have been tranſ<g ref="char:EOLhyphen"/>ported into weak paſſions, &amp; followed the inſtructions of thoſe who adviſed me to take goods at ſea, unleſs I were reſtored my right at land; but ſuch Counſellors are fit for war, and not for peace, for Heathens, not for Chriſtians, when the remedy is worſe then the diſeaſe; and therefore you may be confident Sir, the loweſt condi<g ref="char:EOLhyphen"/>tion of miſery, ſhall not inforce me to an act of violating that mo<g ref="char:EOLhyphen"/>ral and Divine Law, (do as you would be done unto) which hath made me depoſite double the value in your maſters hands, <hi>I. C.</hi> for what commodities my conſtrained neceſſity compels me to bor<g ref="char:EOLhyphen"/>row from your ſhip called the Fortune: This being the occaſion, and true ſtate of my condition, I hope your charity will judge friendly of him, who covets to requite ſuch a chriſtian-like curteſie.</p>
+            <closer>
+               <signed>T. B.</signed> 
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>20 September. 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For the Maſter of the Barque called the <hi>Fortune.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>GIve me leave lovingly to queſtion your judgement, for omit<g ref="char:EOLhyphen"/>ing this fair opportunity, in making up your breach with the Parliament, ſince all other garriſons are ſurrendred except yours of <hi>Lundy,</hi> which is generally conceived, will no ways advance the Kings cauſe, as things now ſtands, nor your credit to keep the Iſle from the right owner, but be certain to increaſe yours, and my ſuffer<g ref="char:EOLhyphen"/>ings that is deeply ingaged for you: wherefore I hope your prudent care, and profeſt honeſty will look as well upon your friends miſery, as altogether the ſervice of his Majeſty, &amp; not leave me to the mercy of an enemy, nor your ſelf expoſed to the trophy of their pity, when it now remains in your power to remedy the one, and come off with Honourable tearms in the other; knowing by Proclama<g ref="char:EOLhyphen"/>tion your paſt and preſent Actions is charged as the greateſt crimes, and to thoſe that ſhall relieve you, conceived as Traytors againſt
+<pb n="12" facs="tcp:161552:8"/> the State, for your forwardneſſe in recruiting his Majeſties Army with a thouſand Miners, at his firſt entrance to theſe wars, clothing his ſouldiers, ſupplying his Magazine with Ammunition of Lead, and bringing your Mint from the Caſtle of <hi>Aberiſtwith,</hi> to pay them; as alſo diſobeying their ſeverall Summons by Sea and Land, for ſurrendring <hi>Lundy:</hi> Theſe, with many other accuſations, if not timely prevented, will I fear fall fatall upon your life and fortune, which God in his good time avert, ſhall be the daily prayers of</p>
+            <closer>
+               <signed>Your faithfull friend, <hi>J. J.</hi>
+               </signed>
+               <dateline>
+                  <date>20. <hi>Auguſt,</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Mr. <hi>Buſhels</hi> Anſwer to a friends Letter, which by way of Admo<g ref="char:EOLhyphen"/>nition threatneth his life and fortune.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>TO prevent your fears, and ſeeming jealouſies of my proceed<g ref="char:EOLhyphen"/>ings, I have not only ſent your deep ingagements canſelled, as an affection I bear to friendſhip, but likewiſe my innocent anſwer, and reſolution here incloſed, of thoſe pretended crimes laid to my charge in the lining of your Letter, being confident it will ſatisfie the moderate hearers, if not aggravate by malevolent ſpirits, whoſe envy I ſo much contemn, as were my perſon upon the Scaffold of execution, I ſhould ſignifie the ſame expreſſion, and pitty their judge<g ref="char:EOLhyphen"/>ments that have ſurrendred thoſe ſtrong garriſons of the Kings, or were not forward to maintain the Royalty of his Majeſties legall Rights, in regard I fear the honour &amp; fidelity of our Engliſh people to their Soveraign Prince will thereby be called in queſtion, and through their own tranſgreſſion be puniſhed by another Nation, which is the only cauſe, I ingenuouſly profeſſe, makes me covet to maintain the place at my own charge, rather then be in the Liſt of ſo prodigious a Story to future poſterity, without any diſreſpect to the Honourable Owner, whom I am obliged to honour in a fruitfull gratitude, next to my Maſter: Thus is the condition and intention of your ſervant, that conceives it more ſecure in point of morality, reaſon, and religion, to pay my tribute debt due to nature for per<g ref="char:EOLhyphen"/>forming the commands of my juſt Prince, then live to enjoy any earthly content with a guilty conſcience, by betraying the truſt of Gods Anointed; and therefore to deny the truth of my actions, were
+<pb n="13" facs="tcp:161552:8"/> to deny my Maſter, which for replication to your objection, I ſhall reduce the reaſons that induced me to it, as I muſt give an account at the high Tribunall; That my complyance to ſerve his Majeſty, was not out of an ill reſpect to the Honourable Parliament, but as a loy<g ref="char:EOLhyphen"/>all duty to my Maſters Commands, and in a confident hope to bal<g ref="char:EOLhyphen"/>lance the breach between King and Parliament, as no forc't power ſhould not be able to take away the Regality of his Soveraign Rights, nor his Prerogative trench any more upon the priviledge of his native Subjects, being his ſworn ſervant before the wars, and I conceive permitted by the Parliaments Honourable Order to at<g ref="char:EOLhyphen"/>tend his perſon, whoſe Mint, is well known to the meaneſt man, that it was his Majeſties, and therefore in me double ungratefull if I had not reſtored it; diſobedient if not obeyed his Commands for con<g ref="char:EOLhyphen"/>ducting his Miners, or unworthy of ever farming his Mines Royall, if refuſed him a parcell of his own Lead for his mony, being then at the Parliaments pleaſure to command the like; and for my retire<g ref="char:EOLhyphen"/>ment to <hi>Lundy,</hi> it is well known, the occaſion was my affection to ſolitude, the preſſing of my Miners at <hi>Commartin,</hi> as alſo to prevent an ill Inhabitant, which ſhould have prejudiced the Kings cauſe, the Countries traffick and ſurprize the honourable Owner from his purchaſed right, but to demean my ſelf ſo therein, as my conſcience might not accuſe me of an unjuſt act during the Government, nor the adjacent Countries be charged with the maintenance: And for clothing the Kings Army, I am confident the Common-wealth will receive as much benefit thereby, as my ſervice therein hath done his Majeſty; for having the Cuſtomes of Lead aſſigned me in ſatiſ<g ref="char:EOLhyphen"/>faction of my great disburſements, it obligeth my diligence the more to diſcover new Mines, and recover the old, when I have no other hopes of re-imburſing my ingagements, but by increaſing the ſtaple commodity of Lead, which is as well known to the generall State much decayed, as my particular adventures can witneſſe to the world my diſcovery: Beſides ſir, your better judgement may well conceive others would have undertaken the ſervice, and not be ſo carefull of ſurpriſing plundered Clothes from the unruly ſouldi<g ref="char:EOLhyphen"/>ers, with buying it again, to the full value of the right owners, which I refer for proof to the poor men that made it by their honeſt cal<g ref="char:EOLhyphen"/>ling, and ſo committing you to Gods protection, as my innocent preparation to this Summons of death in your Letter of admonition,
+<pb n="14" facs="tcp:161552:9"/> which to queſtion your ſecreſie, having made you my Confeſſor, were a ſin in</p>
+            <closer>
+               <signed>Your ſervant, <hi>T. B.</hi>
+               </signed>
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>24. September, 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have received, my Honourable Lord, your Fathers Letter, and the Honourable Committees Order, to treate with you con<g ref="char:EOLhyphen"/>cerning the Surrender of <hi>Lundy,</hi> the which I ſhall not only moſt willingly obey, but if your affection hath a deſire to ſee the Iſle, as I am informed by Major <hi>Pomeroy,</hi> I do here promiſe you, upon the faith of a Chriſtian, and the word of a Gentleman, you ſhall be heartily welcome both going and comming, for the Major hath gi<g ref="char:EOLhyphen"/>ven ſuch a Character of your worth and merit, as I deſire to be ac<g ref="char:EOLhyphen"/>quainted with ſo noble a nature, and ſhould have waited upon you my ſelf, were it not for ſome reaſons this Gentleman can acquaint you from the</p>
+            <closer>
+               <signed>Servant of your Commands, <hi>T. B.</hi>
+               </signed>
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>19. November, 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>For his Honoured friend Major</hi> Fienes <hi>Preſent.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="15" facs="tcp:161552:9"/>
+            <head>
+               <hi>Die Saturni</hi> 31. <hi>Octob.</hi> 1646. At the Committee of both Kingdoms at <hi>Darby</hi> houſe.</head>
+            <p>ORdered, that whereas formerly leave was given to the Right Honourable Lord Viſcount <hi>Say</hi> and <hi>Seale,</hi> to treate with Mr. <hi>Buſhel</hi> about the rendring up of <hi>Lundy</hi> Iſland, and that this Com<g ref="char:EOLhyphen"/>mittee did undertake to do their endeavours, that upon the ſurren<g ref="char:EOLhyphen"/>dring the ſaid Iſle, the Delinquency of the ſaid Mr. <hi>Buſhel</hi> ſhould be taken off, and he reſtored to his Intereſt in the ſilver Mines: It is now Ordered, that all the Souldiers there with Mr. <hi>Buſhel,</hi> ſhall have the ſame benefit of the endeavours of this Committee upon the ſur<g ref="char:EOLhyphen"/>render aforeſaid, to have their Delinquency taken off, they being not men of Eſtate, and they ſhall have liberty to go to their own homes, and live there unmoleſted, they being obedient to the Laws of the Kingdom, and ſubmitting to all Ordinances in Parliament: And that the Lord <hi>Say</hi> ſhall have time to continue to treate with them for two moneths after the expiration of the time formerly granted.</p>
+            <closer>
+               <signed>By Command of the ſame Committee. <hi>Gualter Preſt,</hi> Secret.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Have received your Letter, and the Honourable Committees Or<g ref="char:EOLhyphen"/>der of both Kingdoms, by your hopefull ſon, which ſhould be moſt willingly obeyed, could I relieve my loſſes, or cancell my ob<g ref="char:EOLhyphen"/>ligations, with the ſight of their good intentions, but if the Honou<g ref="char:EOLhyphen"/>rable Committee will be pleaſed to procure the performance of my eſtate, and thoſe immunities I formerly ſent, here incloſed, by an Ordinance in Parliament, towards the payment of my juſt debts, and the proſecution of my publike inployments before my ſurren<g ref="char:EOLhyphen"/>der, which as I am informed by Mr. <hi>Squire</hi> who was imployed by the Commiſſioners of <hi>Devon</hi> to the ſame purpoſe, that their pious Charity have engaged their endeavors to accompliſh my humble deſires after my ſurrender, otherwiſe I muſt be forced through a
+<pb n="16" facs="tcp:161552:10"/> conſtrained neceſſity, to beg leave of your Lordſhip, for its conve<g ref="char:EOLhyphen"/>niency, as the refuge of my fortune, to right my unſupportable ſuf<g ref="char:EOLhyphen"/>ferings by Sea and land, which hitherto I have patiently endured, and preſerved the place againſt all forraign oppoſitions at my own charge, without aſſiſtance from his Majeſty, or prejudice to any, as the countrys adjacent will inform your Lordſhip: it being contrary to the diſpoſition of my naturall inclination, for ſeeking a reſtau<g ref="char:EOLhyphen"/>ration from the ruins of others, that never injured me, but rather to wait upon the Parliaments juſtice, for ſatisfying my Creditors out of the demands of my mean fortune, which I am confident no man with an honeſt conſcience can deny me; and for any other, I fear not the power of their greatneſs, knowing my reſolution and innocence, is prepared to encounter their cruelties, were it the worſt of evils, &amp; not fear life, or that Delinquencie; w<hi rend="sup">ch</hi> loyalty to the King my Ma<g ref="char:EOLhyphen"/>ſter hath laid upon me, when the conſequence ſtands in competition with my reputation, as Orphans and Widdows are wanting of ſa<g ref="char:EOLhyphen"/>tisfaction. Be pleaſed therefore in your Lordſhips wiſdom, as a prudent care to the Piety of peace, to recommend once more my civill requeſt, here incloſed, to the Honorable Committee of both Kingdoms, leaſt the bloud that may be ſpilt light not upon your Honor, nor your family, as upon thoſe that hinder the progreſs of ſo happy a Treaty; for ſome reaſons, this Gentleman can better in<g ref="char:EOLhyphen"/>form your Lordſhip by relation then my ſelf, by a Letter, whom I ſent on purpoſe, to know the Parliaments poſitive anſwer, leaſt a dellatory Treaty ſhould force me to fall into another famine, which Gods providence hath miraculouſly relieved me, when all the world had left me, and therefore I fear not what the malice of man can do to</p>
+            <closer>
+               <signed>Your Lorſhips humble Servant <hi>T. B.</hi>
+               </signed>
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>24. November, 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>For the Right Honorable the Lord Viſcount</hi> Say <hi>and</hi> Seal.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="17" facs="tcp:161552:10"/>
+            <opener>
+               <salute>Mr. Buſhel,</salute>
+            </opener>
+            <p>THat which the Committee of both Kingdoms have undertaken, which was to take off all Delinquencie from your ſelf and thoſe who are with you in the Iſland and thereby all ſequeſtration of your Eſtate, and a pardon for what hath been done ſince theſe wars, in reſpect of the war, or by occaſion of that, I aſſure my ſelf you may reſt ſecured ſhall be done, if you will deliver me my own: And truly why I ſhould ſuffer from my friend in my inheritance, I know not, neither do I ſee the equity or Juſtice of it: I have now an opportunity to do you a good office, and having once ſet you <hi>Rectus Incuria,</hi> I ſhall do you pleaſures in that which withall may be for the publike good: the King is now come to Holdenby, and you have kept that place when all others are rendred, as I think the long<g ref="char:EOLhyphen"/>eſt: It will be juſt and Honourable for you, now upon tearms, for your own Indempnity, in reſpect of what you have done, and thoſe who are with you, to deliver it: If you will buy that which is mine, give me 3000 li. for all that is there, you ſhall have it, ſo you keep it, not to offend the State, which I think you intend not: if theſe either cannot be done, or you like it not, keep not from the Owner that which is his; let me know your reſolution, and I then will ſend my Son thither, if you will render it upon the tearms the Commit<g ref="char:EOLhyphen"/>tee have undertaken:</p>
+            <closer>
+               <signed>
+                  <hi>Your very loving Friend,</hi> W. Say <hi>and</hi> Seal.</signed>
+               <dateline>
+                  <date>February 16. 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>For Mr.</hi> Buſhel <hi>at</hi> Lundy.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>My Honourable Lord,</salute>
+            </opener>
+            <p>YOur Noble Letter of advice is to me a Law, and your vertuous promiſe, to take me into your care of protection, is in my eſti<g ref="char:EOLhyphen"/>mation
+<pb n="18" facs="tcp:161552:11"/> a liberty above <hi>Magna Charta,</hi> or the ſtrength of <hi>Lundy;</hi> and therefore your Lordſhip may reſt aſſured of your inheritance delivered to your hopefull ſon, upon the ſight of his perſon, or ſa<g ref="char:EOLhyphen"/>tisfaction for the ſame according to your Honourable deſires; for upon the faith of a Gentleman, my intention was never no other<g ref="char:EOLhyphen"/>wiſe, then to obey my Maſters Commands in keeping of the place, without prejudice of any, much leſſe to your Lordſhip, other then to live retired, and ſee my poor Eſtate juſtly diſtributed towards payment of my debts, as his Majeſty can bear me witneſſe: And in regard your Lordſhip might diſcern the Candidneſſe of my heart, and innocency of my ſoul, I have taken this great journey to kiſſe your hands, that I may have the Honour to wait upon your worthy ſon back, and ſecure the ſtate of my fidelity to his Majeſty, and their Honours, of any future truſt repoſed, when I have given your Lord<g ref="char:EOLhyphen"/>ſhip reall ſatisfaction, according to your juſt demands, or take my leave of your Lordſhip, and wiſh you a better Tenant, I reſt,</p>
+            <closer>
+               <signed>Your devoted Servant, <hi>T. B.</hi>
+               </signed>
+               <dateline>
+                  <hi>Commartin</hi> 
+                  <date>24. <hi>March,</hi> 1646.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>For the Right Honourable the Lord Viſcount</hi> Say <hi>and</hi> Seale.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>
+                  <hi>To the Right Honourable the Lord Viſcount</hi> Say <hi>and</hi> Seale.</salute>
+            </opener>
+            <p>WE the Inhabitants of the Counties of <hi>Devon</hi> and <hi>Cornwall,</hi> &amp; neereſt borderers upon the Iſland of <hi>Lundy,</hi> do in all hu<g ref="char:EOLhyphen"/>mility certifie your Lordſhip, that Mr. <hi>Buſhell,</hi> ſince his abode in the ſaid Iſle in the times of the late war, hath been ſo far from oppreſ<g ref="char:EOLhyphen"/>ſing us in any kinde, that he hath been a means of ſome advantage to us by keeping the ſaid Iſland, and your Lordſhips inheritance out of the hands of ſome perſons, who (as we are credibly informed) would have made uſe of it to the prejudice of theſe and other parts of the Kingdom. And further, we are bold to certifie your Lord<g ref="char:EOLhyphen"/>ſhip, that the ſaid Mr. <hi>Buſhell</hi> hath adventured great ſums of money to recover the deſerted and drowned Mines of <hi>Commartin,</hi> which is ſtrongly reported to be very hopefull by his means, and by his con<g ref="char:EOLhyphen"/>tinued
+<pb n="19" facs="tcp:161552:11"/> induſtry may prove very exceeding advantagious to the common good, and to theſe Weſtern parts in particular: now in regard ſome of our neighbors, to whom he is indebted for certain ſums lent to further him in his noble &amp; great deſign, to recover the ſaid Mines; having received this annexed Letter from the ſaid Mr. <hi>Buſhell,</hi> &amp; fearing that they &amp; we ſhould be deprived of ſo good a neighbor, and ſo induſtrious for the publike good, do hereupon humbly intreat your Lordſhip (if it may ſtand with your conveni<g ref="char:EOLhyphen"/>ence and good liking) ſtill to admit of his continuance in the ſaid Iſland, that ſo by his care and charge we may live ſecure, and by his knowledge, and active diligence, bring the great work of the ſaid Mines, from hopes, to certainties. This is our humble requeſt in his behalf, if it be not in the matter of it prejudiciall to the State, or diſadvantagious to your Lordſhip.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <pb n="20" facs="tcp:161552:12"/>
+                     <item>
+                        <hi>William Cary.</hi>
+                     </item>
+                     <item>
+                        <hi>George Cary,</hi> Rector of Clovelly.</item>
+                     <item>
+                        <hi>William Greenway,</hi> Miniſter.</item>
+                     <item>
+                        <hi>Henry Pruſt.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Kinſam.</hi>
+                     </item>
+                     <item>
+                        <hi>John Pollard.</hi>
+                     </item>
+                     <item>
+                        <hi>John Sanders.</hi>
+                     </item>
+                     <item>
+                        <hi>William Lange.</hi>
+                     </item>
+                     <item>
+                        <hi>James Lile.</hi>
+                     </item>
+                     <item>
+                        <hi>Nic. Shapley,</hi> Sen.</item>
+                     <item>
+                        <hi>Nic. Shapley,</hi> Jun.</item>
+                     <item>
+                        <hi>Ruben Laurence.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric. Tombe.</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Nicolas.</hi>
+                     </item>
+                     <item>
+                        <hi>Aughter Lyle,</hi> Sen.</item>
+                     <item>
+                        <hi>Aughter Lyle,</hi> Jun.</item>
+                     <item>
+                        <hi>Tho. Snow.</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Lyle.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Shapley.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric. Cleverton.</hi>
+                     </item>
+                     <item>
+                        <hi>George Mungoy,</hi> Curate.</item>
+                     <item>
+                        <hi>Jo. Crange.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Velly.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Iuell.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Bagilhole.</hi>
+                     </item>
+                     <item>
+                        <hi>George Grigg.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Way.</hi>
+                     </item>
+                     <item>
+                        <hi>Juſtinian Yeo.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric. Bagilhole.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Nicholl.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Cook.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Band.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Rowe.</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Rowe.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Rowe.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Mugford.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric. Crange.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric. Smith.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Husband.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric. Yeo.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric. Trick.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Cooke.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Band.</hi>
+                     </item>
+                     <item>
+                        <hi>Antho. Luttrell.</hi>
+                     </item>
+                     <item>
+                        <hi>Nic. Luttrell.</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Heardwick.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Biſhop.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Luttrell.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Lynthorne,</hi> alias <hi>Loy.</hi>
+                     </item>
+                     <item>
+                        <hi>Nic. Pitton.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Skame.</hi>
+                     </item>
+                     <item>
+                        <hi>Matthew Brooke.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric. Leach.</hi>
+                     </item>
+                     <item>
+                        <hi>Abra. Bond.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Friend.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Juell.</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Deymond.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Cooke.</hi>
+                     </item>
+                     <item>
+                        <hi>William Prideaux.</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Yeo.</hi>
+                     </item>
+                     <item>
+                        <hi>John Cocke.</hi>
+                     </item>
+                     <item>With many hundreds more.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="21" facs="tcp:161552:12"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Have found Mr. <hi>Buſhell</hi> ſo much a Gentleman of his word, in the ſurrender of your Iſland of <hi>Lundy</hi> to me, according to his Excellency, and your Lordſhips Order, for the uſe of the Par<g ref="char:EOLhyphen"/>liament; That upon <hi>Thurſday</hi> laſt being the 24<hi rend="sup">th</hi> of <hi>Febru<g ref="char:EOLhyphen"/>ary</hi> himſelfe with his officers and ſouldiers tooke ſhipping for <hi>Ilford Combe,</hi> with purpoſe to imploy them in his chargeable adventures of recovering the dejected works of <hi>Commartyne,</hi> Mines, and his other Minerals in <hi>Wales,</hi> The reality of which a<g ref="char:EOLhyphen"/>ctions, together with the generall report of his Noble procee<g ref="char:EOLhyphen"/>dings in his publique affaires, without taking contribution from the Countrey, or violence to any man, all this while he hath kept the ſaid Iſland and Garriſon of <hi>Lundy,</hi> (although the laſt in ſur<g ref="char:EOLhyphen"/>render) doth double oblige me to become an humble ſutor to your Lordſhips, that if any man ſhall go about to infringe the Ordinance of the Honourable Houſe of Parliament, and his Ex<g ref="char:EOLhyphen"/>cellencies agreement made with Mr. <hi>Buſhell</hi> and your Lordſhip for reſtoring him his Eſtate, and taking off the delinquency of his ſouldiers, (whoſe names are here under-written) that it may be lookt upon as an act tending to the diſhonour bot of his Ex<g ref="char:EOLhyphen"/>cellency and your Lordſhip, and therefore that both himſelfe and they be thus far taken into your Lordſhips care of protecti<g ref="char:EOLhyphen"/>on, which is the humble requeſt of</p>
+            <closer>
+               <signed>Your ever dutifull Son, <hi>Richard Finnes.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>24<hi rend="sup">th</hi> of <hi>February</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="22" facs="tcp:161552:13" rendition="simple:additions"/>
+            <opener>
+               <salute>May it pleaſe your Excellency</salute>
+            </opener>
+            <p>TO be informed, that according to your Commands, and Mr. <hi>Buſhels</hi> promiſe, both me and my ſouldiers met him at the Kay of <hi>Crovelly,</hi> being the place appointed, and the neareſt har<g ref="char:EOLhyphen"/>bour to take ſhipping for <hi>Lundy,</hi> where we were forced to ſtay fifteen dayes for a winde, before we could arrive into the Road of <hi>Lundy;</hi> And his Lieutenant having notice that it was us by their Governour Mr. <hi>Buſhels</hi> ſhooting off a piſtoll, gave us at our landing a ſalutation with all his Guns, and a volle of ſhot, as an entertainment of friendſhip, and free welcome, which made me ſo confident of his former profeſt fidelity in ſurrendring the ſame, that both my ſelfe and my men marcht through his guard unto the Caſtle, commanding his own men to remain in another houſe, leſt the ignorance of ſome men on both ſides might beget a diffe<g ref="char:EOLhyphen"/>rence through exchange of language, and miſ-underſtanding of the truth; but ſo ſoone as they had underſtood the Kings conſent for a ſurrender to the right Owner, and the Conditions made on their behalfe by their Governour Mr. <hi>Buſhell</hi> with your Ex<g ref="char:EOLhyphen"/>cellency and my Lord, the morning tide following they tooke ſhipping for <hi>Ilford Combe,</hi> where he purpoſeth to imploy them in his chargeable adventures of recovering the diſtreſſed works of <hi>Commartyn</hi> Mynes, and his other Minerals in <hi>Wales.</hi> The Garriſon being thus freely ſurrendred, with all things thereunto belonging, for Ammunition of Guns, and houſhold-ſtuffe, accor<g ref="char:EOLhyphen"/>ding to his engagement upon the word of a Gentleman, but ha<g ref="char:EOLhyphen"/>ving demanded of his Lieutenant Mr. <hi>Richard Cock</hi> what ſtore of proviſion was left in the Iſland, he replyed with a deep proteſta<g ref="char:EOLhyphen"/>tion, that for ſix monthes before Mr. <hi>Buſhell</hi> went over to treat with your Excellency, according to your letter ſent by your Drummer, they nor their Governour had not eaten a bit of bread in ſix monthes, nor ſcarce drank a barrell of bear in two yeares, alleaging the occaſion was the Governours known loſſes by land and ſea, which cauſed divers of the ſouldiers to decline the ſer<g ref="char:EOLhyphen"/>vice, upon his propoſall of eating horſe-fleſh, And made the hearts of thoſe that ſtaied the more willinger to endure all hard<g ref="char:EOLhyphen"/>neſſe to obey his Commands, without treſpaſſing of any by land
+<pb n="23" facs="tcp:161552:13" rendition="simple:additions"/> or ſea, were it to the loſſe of their lives; this integrity of theirs, and the honeſty of the Governour, as alſo his publique imploy<g ref="char:EOLhyphen"/>ment in Minerals for the Common good, being confirmed by the Countrey, makes me humbly preſent their names here under-written, as Officers and ſouldiers of the laſt Garriſon, and men that have done the leaſt of injuries, notwithſtanding their ſad condition, which I wiſh for the preſident of others, they may be lookt upon as the beſt of enemies that have Conditions from the Honourable Parliament, and your Excellency, I remaine</p>
+            <closer>
+               <signed>
+                  <hi>Your devoted Servant,</hi> Richard Finnes.</signed> 
+               <dateline>
+                  <hi>Lundy</hi> 
+                  <date>
+                     <hi>the</hi> 24<hi rend="sup">th.</hi> 
+                     <hi>Feb.</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_names">
+            <head>A Liſt of thoſe mens names which I found upon the ISLAND.</head>
+            <list>
+               <item>Tho. Buſhell <hi>Eſq; Governor.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Rich. Cock <hi>Lieut. Gover.</hi>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Edward Owen.</item>
+               <item>
+                  <hi>Major</hi> Rich. Pomeroy.</item>
+               <item>
+                  <hi>Lieute.</hi> Oliver Bouck.</item>
+               <item>Rich. Kynſam.</item>
+               <item>William Gilbert. <hi>Gunne<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </item>
+               <item>John Scott. <hi>Gunne<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </item>
+               <item>John Trout.</item>
+               <item>William Skinner.</item>
+               <item>Daniel Hanger.</item>
+               <item>Tho. Brayley.</item>
+               <item>Henry Battee.</item>
+               <item>James Bonden.</item>
+               <item>Samuel Shortridge.</item>
+               <item>Jo. Wheeler.</item>
+               <item>Jo. Thorne.</item>
+               <item>Geo. Gilbert.</item>
+               <item>Rich. Harris.</item>
+               <item>William Matheage.</item>
+               <item>Rich. Chi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge.</item>
+               <item>Fra. Hobbs.</item>
+            </list>
+            <closer>
+               <signed>Richard Finnes.</signed> Copia vera.</closer>
+         </div>
+         <div type="letter">
+            <pb n="24" facs="tcp:161552:14"/>
+            <opener>
+               <salute>May it pleaſe your Excellency.</salute>
+            </opener>
+            <p>THe King my Maſter having co<g ref="char:cmbAbbrStroke">̄</g>manded me to reſtore the Ho<g ref="char:EOLhyphen"/>nourable Lord <hi>Say</hi> his Iſle of <hi>Lundy,</hi> upon ſight of his Lord<g ref="char:EOLhyphen"/>ſhips Letter to me directed the 16<hi rend="sup">th</hi>. of <hi>Feh.</hi> 1646. and the Condi<g ref="char:EOLhyphen"/>tions propounded by your Excellency, with a wiſh from His Majeſty, that would to God every man had his own, and then he ſhould have ſome thing, which hath made me ſur<g ref="char:EOLhyphen"/>render the ſaid Iſle with all the Alacratie and freeneſſe to that noble Gentleman Mr. <hi>Richard Fiennes,</hi> according to your Ex<g ref="char:EOLhyphen"/>cellencies Commands, as by his letter here incloſed doth ap<g ref="char:EOLhyphen"/>peare; which makes me now deſcend into the bowels of the earth, for diſcovering Minerall treaſures, that by it through Gods providence I might have hope to redeeme my late loſſes by ſea and land, as none others ſhould have ſhare in the ſufferings but your ſervant, upon confidence that your Excellency will free my ſervants imployed in ſo publique a work, for the common good, from preſſing, according to the intention &amp; true meaning of the Honourable Ordinance of both Houſes. The obligation whereof bindes me not only to follow this harmles calling for the Co<g ref="char:cmbAbbrStroke">̄</g>mon good, but eſteem your Excellencies piety for preſerving the poor Mariner from the rapine of an ill natur'd Commander in the time of civill warres, as the greateſt benefactour that I ſeeke from the bounty of mortall man, all which I humbly ſubmit to your Excellencies Nobleneſſe, and reſt,</p>
+            <closer>
+               <signed>Your obliged Servant, <hi>T. B.</hi>
+               </signed> 
+               <dateline>
+                  <hi>Comartyn</hi> 
+                  <date>11. <hi>March.</hi> 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>WHereas I formerly ſent a ſafe conduct to <hi>Tho. Buſhell</hi> Eſquier to come and treate with Lord Uicount <hi>Say</hi> and <hi>Seale,</hi> or my Self, abut the Surrender of the Iſle of <hi>Lundy;</hi> And the two Houſes of Parliament, Ordered that upon the delivery of the ſaid Iſland, the delinquency of the ſaid Mr. <hi>Buſhell,</hi> and the ſouldiers upon the ſaid Iſland, ſhall be taken off, and he reſto<g ref="char:EOLhyphen"/>red to his Eſtate with the Mines, in <hi>Wales, Devon</hi> and <hi>Cornwall</hi> And whereas I underſtand that he hath ſo farre proceeded in the. Treaty with the Lord <hi>Say</hi> concerning it, that he is now ready to go to <hi>Lundy,</hi> and deliver up the ſame ſo ſoone as the Lord <hi>Say</hi> ſhall appoint any perſon to whoſe hands the cuſtody thereof ſhall be committed, but propoſes he may have his freedome till
+<pb n="25" facs="tcp:161552:14"/> he can recover the poſſeſsion of his Eſtate reſtored to him by Parliament; I conceiving it very reaſonable that he ſhould have ſome time to ſettle his Eſtate, and being not willing to agree to ſuch an uncertain limitation of time as is propoſed, have (for the reaſons aforeſaid, and for that his civill carriage, and endeavours to advance the publique, are certified from the countrey) agreed to grant the ſame for the ſpace of ſix monthes. And therefore do hereby give free liberty to the ſaid <hi>Thomas Buſhell</hi> to paſſe to the ſaid Iſle of <hi>Lundy,</hi> and to returne to <hi>London,</hi> or continue there, or in other parts of this Kingdome, free from any arreſts, ſuits, or moleſtation whatſoever, for the ſpace of ſix monthes, to begin and commence from the time of the ſurrender of the ſaid Iſle, or to go beyond the ſeas if he ſhall think fit ſo to do. And all Juſtices of the peace, Maiors, Sheriffs, Bayliffs, officers, ſoul<g ref="char:EOLhyphen"/>diers, and other perſons whatſoever whom it may concerne, are to take notice hereof, and conforme accordingly as they will an<g ref="char:EOLhyphen"/>ſwer the contrary at a Councell of warre.</p>
+            <closer>
+               <signed>Fairfax.</signed> 
+               <dateline>
+                  <hi>Given under my Hand and Seale</hi> 
+                  <date>
+                     <hi>the</hi> 30<hi rend="sup">th</hi>. <hi>of</hi> October, 1647.</date> At my Quarters at <hi>Turneham Greene.</hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Die Sabathi 10. Julii. 1647.</head>
+            <p>ORdered by the Lords and Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament, That upon the delivery up of the Iſle of <hi>Lun<g ref="char:EOLhyphen"/>dy</hi> to the Lord Viſcout <hi>Say,</hi> and <hi>Seal,</hi> or his aſſignes, by Mr. <hi>Thomas Buſhell,</hi> the Delinquency of the ſaid <hi>Thomas Buſhell</hi> be taken off, and all ſequeſtration in re<g ref="char:EOLhyphen"/>ſpect thereof be diſcharged; And he and his aſſignes reſto<g ref="char:EOLhyphen"/>red to all ſuch rights, as he or they had, or ought to have in the Mynes in <hi>Devonſhire, Wales,</hi> and <hi>Cornwall,</hi> and to all his other Eſtates and Rights whatſoever, And that the men that were with him in the Iſland, (being not ſouldiers of eſtate and fortune be pardoned and freed from delinquen<g ref="char:EOLhyphen"/>cy.</p>
+            <closer>
+               <signed>H. Elſing. Cler. Par. Dom. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
